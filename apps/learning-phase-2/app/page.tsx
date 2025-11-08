@@ -7,6 +7,9 @@ export default function Home() {
         <h1 className="text-6xl font-bold text-gray-900 mb-4">
           🐾 Hello Pet Management App! 🐾
         </h1>
+        <p className="text-xl text-gray-600 mt-4">
+        Track and manage your pets in one place
+        </p>
       </div>
     </main>
   )
